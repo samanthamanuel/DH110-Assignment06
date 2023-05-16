@@ -5,7 +5,7 @@
 The purpose of this project is to provide families with a recipe-archiving app, in other words, a digital cookbook which they can access anytime, anyplace. The app is called “With Ingredients that Bind” and it includes the option to add collaborators and use templates for recording family recipes. 
 
 
-The purpose and process of this interface design is to transform the previous low-fidelity designs I created into a digitized version with more style through the help of Figma. This version will be used with frames the size of the iPhone 13 screen size. 
+The purpose and process of this interface design is to transform the previous low-fidelity designs I created into a digitized version with more style through the help of Figma. This version will be used with frames the size of the iPhone 13 screen. 
 
 
 ## Digitized Wireflow 
