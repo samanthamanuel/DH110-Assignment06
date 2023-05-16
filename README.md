@@ -14,11 +14,11 @@ Please access the digitized wireflow [here](https://www.figma.com/file/4KN1fCa5r
 
 ## Screen Design 
 ### Typographic Variations 
-![type]()
+![type](typographicvariations.jpg)
 ### Shape Variations 
-![shape]()
+![shape](shapevariations.jpg)
 ### Color Variations 
-![color]()
+![color](colorvariations.jpg)
 
 
 ## Impression Testing 
@@ -37,8 +37,9 @@ Evidence of impression test
 
 ## Accessibility + Contrast Check 
 Evidence of accessibility (color-contrast at least) check
-![colorcheck1]()
-![colorcheck2]()
+![colorcheck1](colorcon1.jpg)
+
+![colorcheck2](colorcon2.jpg)
 
 
 ## Final Design + Design System 
