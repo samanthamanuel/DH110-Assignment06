@@ -43,7 +43,7 @@ Evidence of accessibility (color-contrast at least) check
 
 
 ## Final Design + Design System 
-![finaldesign]()
+![finaldesign](finaldesign.jpg)
 
 
 ### Screen Design 
