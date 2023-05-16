@@ -23,16 +23,18 @@ Please access the digitized wireflow [here](https://www.figma.com/file/4KN1fCa5r
 
 ## Impression Testing 
 Please access the screen/audio recording [here](enter link here)
-Evidence of impression test
-
 
 ### 5 second test findings 
 * 
 
-
 ### Typography 
+* 
+
 ### Shape
+
+
 ### Color
+* 
 
 
 ## Accessibility + Contrast Check 
