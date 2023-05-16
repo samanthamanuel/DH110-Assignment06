@@ -31,7 +31,7 @@ Please access the screen/audio recording [here](enter link here)
 * 
 
 ### Shape
-
+* 
 
 ### Color
 * 
@@ -55,9 +55,15 @@ Evidence of accessibility (color-contrast at least) check
 
 
 ## Design System 
-**Typeface:**
-**Color Scheme**
+**Typeface + Color Scheme**
+
+![design](design.jpg)
+
+
+
 **Layout Grid**
+
+![layout](design2.jpg)
 
 
 ## Reflection: Decision Making Process on Final Graphical Interface Design
