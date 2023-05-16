@@ -60,7 +60,7 @@ Evidence of accessibility (color-contrast at least) check
 
 *Typeface family and size:* 
 
-I ended up taking the suggestion to use Playfair Display, 45pt and 15pt. Initially, I used Urbanist because I thought it was the cleanest, most legible font. I though that no matter what the sizing was, it would be clear to read. For the most part, I wanted the page to be easy to read and click through, hence the decision to use 45pt and 15pt. 
+I ended up taking the suggestion to use Playfair Display, 45pt and 15pt. Initially, I used Urbanist because I thought it was the cleanest, most legible font. I though that no matter what the sizing was, it would be clear to read. For the most part, I wanted the page to be easy to read and click through, hence the decision to use 45pt and 15pt. Overall, Playfair Display is great for its editorial nature and brings added dimension to the idea of "archiving" recipes. 
 
 *Color Scheme:* 
 * Background color: FFFFFF
