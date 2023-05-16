@@ -22,7 +22,7 @@ Please access the digitized wireflow [here](https://www.figma.com/file/4KN1fCa5r
 
 
 ## Impression Testing 
-Please access the screen/audio recording [here]()
+Please access the screen/audio recording [here](https://drive.google.com/file/d/143ypF1aC2lKjegE4DpbdTxd4epHI94yu/view?usp=sharing)
 
 ### 5 second test findings 
 * Overall, the interviewee preferred and remembered the pink accents, general idea of the page, and the menu features on the bottom of the screen.
